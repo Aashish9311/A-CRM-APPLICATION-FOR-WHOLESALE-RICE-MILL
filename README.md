@@ -38,6 +38,8 @@ Maintain communication logs.
 Integrate with third-party payment gateways.(Not integrated any payment gateway yet) 
 Support export/import of data for accounting tools.
 
+#SNAPSHOTS
+
 MY RICE App
 ![image](https://github.com/user-attachments/assets/c0bb2fe0-12da-405c-8b22-a21854c97fca)
 
